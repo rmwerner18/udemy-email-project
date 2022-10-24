@@ -8,7 +8,7 @@ const SurveyNew = () => <h2>SurveyNew</h2>
 
 const App = () => {
     return (
-        <div>
+        <div className='container'>
             <BrowserRouter>
                 <div>
                     <Header/>
